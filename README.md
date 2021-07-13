@@ -1,2 +1,2 @@
-# myblog.github.io
+# MyBlog
 A blog test
